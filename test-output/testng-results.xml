@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-09-29T20:41:23 IST" name="Default suite" finished-at="2022-09-29T20:42:22 IST" duration-ms="59185">
+    <groups>
+    </groups>
+    <test started-at="2022-09-29T20:41:23 IST" name="Default test" finished-at="2022-09-29T20:42:22 IST" duration-ms="59185">
+      <class name="testPackage.TestActiTimeInvalidLogin">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:testPackage.TestActiTimeInvalidLogin@4fb3ee4e]" started-at="2022-09-29T20:41:23 IST" name="setUp" finished-at="2022-09-29T20:42:01 IST" duration-ms="38072" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="invalidLoginTest()[pri:0, instance:testPackage.TestActiTimeInvalidLogin@4fb3ee4e]" started-at="2022-09-29T20:42:01 IST" name="invalidLoginTest" finished-at="2022-09-29T20:42:22 IST" duration-ms="21057" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- invalidLoginTest -->
+      </class> <!-- testPackage.TestActiTimeInvalidLogin -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
